@@ -62,4 +62,6 @@ Click on the file labeled `SoundflowerBed-2.0.0-release.dmg` and open it when it
 
 Click on the app to run it.
 
+(**Note:** You should copy the SoundflowerBed app to your `Applications/` folder so you can easily run it again in the future)
+
 ![soundflowerbed app](images/soundflowerbed_app.png)
