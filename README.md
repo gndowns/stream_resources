@@ -51,3 +51,13 @@ Close System Preferences and re-open it, and navigate back to "Security & Privac
 There should be a notice on the bottom to allow the Soundflower installer to run. Click "allow".
 
 Now you can close the installer and re-run it, and this time the installation should complete succesfully.
+
+#### Install SoundflowerBed (optional)
+SoundflowerBed is an app to help manage Soundflower. It makes it easier to monitor and control your audio while streaming, so I recommend it.
+
+Download  SoundflowerBed [here](https://github.com/mLupine/SoundflowerBed/releases).
+Click on the file labeled `SoundflowerBed-2.0.0-release.dmg` and open it when it's finished downloading.
+![soundflowerbed download](images/soundflowerbed_download.png)
+
+Click on the app to run it.
+![soundflowerbed app](images/soundflowerbed_app.png)
