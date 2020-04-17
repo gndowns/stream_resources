@@ -65,3 +65,29 @@ Click on the app to run it.
 ![soundflowerbed app](images/soundflowerbed_app.png)
 
 (**Note:** You should copy the SoundflowerBed app to your `Applications/` folder so you can easily run it again in the future)
+
+## Putting It All Together -- Streaming
+You now have all the tools necessary to stream audio to a Zoom call!
+
+First open Zoom and join or start a meeting. 
+
+In the zoom client make sure to click "Turn on Original Sound" (you should have set this up in the earlier section).
+
+![zoom original sound](images/zoom_original_sound.png)
+
+Click on the arrow next to the microphone in the bottom corner of zoom, and under "Select a Microphone" choose "Soundflower (2ch)"
+
+![zoom mic](images/zoom_mic.png)
+
+Now, in your preferred DJ / Audio software, open your audio preferences and select your output device as "Soundflower (2ch)"
+Here is an example in Mixxx DJ software.
+
+![mixxx settings](images/mixxx_settings.png)
+
+Congrats, you're now streaming audio to zoom!
+
+You might notice you can't hear the audio on your own computer.
+It's ok, when you opened SoundflowerBed it should have created a flower icon in the top right corner of your screen.
+Click the icon to open the menu, and under "Soundflower (2ch)" select "Built-in Output." You should now hear the audio being streamed to zoom :)
+
+![soundflowerbed monitor](images/soundflowerbed_monitor.png)
