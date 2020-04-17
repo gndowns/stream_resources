@@ -3,7 +3,8 @@ This is a guide for setting up everything needed to stream audio on Mac.
 It is mainly intended for streaming live DJ sets through Zoom, but it should
 be compatible with any streaming purposes or apps.
 
-## Zoom
+
+# Zoom
 Zoom is a useful app for video conferencing and can be modified to stream
 audio with (almost) original quality. Follow these steps to install Zoom
 and configure it for audio streaming.
@@ -18,7 +19,8 @@ we want to preserve our computer's original audio.
 Follow the instructions [here](https://support.zoom.us/hc/en-us/articles/115003279466-Enabling-option-to-preserve-original-sound)
 to enable original sound. Use the instructions under the "User" section.
 
-## Soundflower
+
+# Soundflower
 Mac does not let you stream audio directly to other apps by default, so we will
 use a free application called Soundflower.
 
