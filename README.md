@@ -57,7 +57,9 @@ SoundflowerBed is an app to help manage Soundflower. It makes it easier to monit
 
 Download  SoundflowerBed [here](https://github.com/mLupine/SoundflowerBed/releases).
 Click on the file labeled `SoundflowerBed-2.0.0-release.dmg` and open it when it's finished downloading.
+
 ![soundflowerbed download](images/soundflowerbed_download.png)
 
 Click on the app to run it.
+
 ![soundflowerbed app](images/soundflowerbed_app.png)
