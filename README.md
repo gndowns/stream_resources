@@ -33,9 +33,11 @@ Click on the file once it is downloaded.
 Click on `Soundflower.pkg` to run the installer.
 
 You may get a security warning like this when running the installer.
+![soundflower warning](images/soundflower_warning.png)
 
 If you do, close the warning, open System Preferences, click on "Security & Privacy" and open the "General" tab.
 There should be a notice at the bottom saying that `Soundflower.pkg` was blocked from running, click "Open Anyway"
+![soundflower open anyway](images/soundflower_open_anyway.png)
 
 Follow the steps in the Soundflower installer.
 
