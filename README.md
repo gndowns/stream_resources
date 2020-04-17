@@ -9,7 +9,7 @@ audio with (almost) original quality. Follow these steps to install Zoom
 and configure it for audio streaming.
 
 ### Install Zoom
-First download the Zoom installer from the official [site](https://zoom.us/download).
+First download the Zoom installer from the [official site](https://zoom.us/download).
 Once the file is downloaded, click on it and follow the instructions to install the Zoom app.
 
 ### Configure Zoom to Use Original Sound
@@ -25,8 +25,10 @@ use a free application called Soundflower.
 ### Install Soundflower
 Soundflower can be quite annoying to install so follow these instructions carefully if you encounter any errors.
 
-Download the Soundflower installer [here](https://github.com/mattingalls/Soundflower/releases/tag/2.0b2)
+Download the Soundflower installer [here](https://github.com/mattingalls/Soundflower/releases/tag/2.0b2).
 Scroll down to the bottom of the page and click on the file labeled `Soundflower-2.0b2.dmg`.
+[](images/soundflower_download.png)
+
 Click on the file once it is downloaded.
 Click on `Soundflower.pkg` to run the installer.
 
