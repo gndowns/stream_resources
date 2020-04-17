@@ -27,7 +27,7 @@ Soundflower can be quite annoying to install so follow these instructions carefu
 
 Download the Soundflower installer [here](https://github.com/mattingalls/Soundflower/releases/tag/2.0b2).
 Scroll down to the bottom of the page and click on the file labeled `Soundflower-2.0b2.dmg`.
-[](images/soundflower_download.png)
+![soundflower download](images/soundflower_download.png)
 
 Click on the file once it is downloaded.
 Click on `Soundflower.pkg` to run the installer.
